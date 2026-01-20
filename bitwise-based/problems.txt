@@ -1,0 +1,10 @@
+1. XOR properties
+
+LeetCode
+* Single Number (LC 136)
+* Missing Number (LC 268)
+* Find the Difference (LC 389)
+
+HackerRank
+* Lonely Integer
+* Flipping Bits
