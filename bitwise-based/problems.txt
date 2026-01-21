@@ -1,10 +1,19 @@
 1. XOR properties
 
+EASY----
 LeetCode
 * Single Number (LC 136)
 * Missing Number (LC 268)
 * Find the Difference (LC 389)
-
 HackerRank
 * Lonely Integer
 * Flipping Bits
+
+MEDIUM----
+LeetCode
+* Single Number II (LC 137)
+* Single Number III (LC 260) ← your Program 11
+* XOR Queries of a Subarray (LC 1310)
+Codeforces
+* XOR and Pairing
+* Little Elephant and XOR
